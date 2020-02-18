@@ -1,6 +1,6 @@
 ### biendata U-RISC 神经元识别大赛简单/复杂双赛道第三方案
 [比赛界面](https://www.biendata.com/competition/urisc/)
-[详细思路介绍](https://www.baidu.com)
+[详细思路介绍](https://blog.csdn.net/qq_21407487/article/details/104385629)
 * 运行环境为CUDA9.0,PYTHON=3.6
 *  按照requirement.txt安装依赖，pip install -r requirements.txt，建议不要这么干，因为偷懒没有新建新的python环境，导致导出来的包非常多，可以先安装下面两个包，尝试运行，看缺失那些在进行安装。
 
