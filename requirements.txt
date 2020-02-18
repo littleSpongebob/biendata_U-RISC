@@ -230,7 +230,7 @@ wcwidth==0.1.7
 webencodings==0.5.1
 webrtcvad==2.0.10
 websocket-client==0.56.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wrapt==1.11.2
 xkit==0.0.0
