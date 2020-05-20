@@ -53,7 +53,7 @@ graphviz==0.8.4
 grpcio==1.16.1
 h5py==2.8.0
 htmlmin==0.1.12
-httplib2==0.9.2
+httplib2==0.18.0
 idna==2.6
 image-classifiers==1.0.0b1
 imageio==2.4.1
