@@ -26,7 +26,7 @@ cloudpickle==0.6.1
 colorama==0.4.1
 command-not-found==0.3
 confuse==1.0.0
-cryptography==2.1.4
+cryptography==3.2
 cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.2
