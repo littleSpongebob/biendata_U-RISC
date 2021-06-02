@@ -220,7 +220,7 @@ typing==3.7.4
 ubuntu-drivers-common==0.0.0
 ufw==0.36
 unattended-upgrades==0.1
-urllib3==1.22
+urllib3==1.26.5
 usb-creator==0.3.3
 validators==0.14.0
 visdom==0.1.8.8
