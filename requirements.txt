@@ -198,7 +198,7 @@ system-service==0.3
 systemd-python==234
 tensorboard==1.12.2
 tensorboardX==1.8
-tensorflow-gpu==1.12.3
+tensorflow-gpu==2.5.1
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.4.2
