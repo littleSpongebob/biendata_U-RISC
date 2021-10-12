@@ -119,7 +119,7 @@ nvidia-ml-py3==7.352.0
 oauth==1.0.1
 olefile==0.45.1
 opencv-python==3.4.1.15
-opencv-python-headless==4.1.0.25
+opencv-python-headless==4.2.0.32
 packaging==19.0
 pandas==0.24.2
 pandas-profiling==2.3.0
