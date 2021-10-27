@@ -31,7 +31,7 @@ cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.2
 Cython==0.29.1
-dask==1.0.0
+dask==2021.10.0
 dataclasses==0.6
 dcase-util==0.2.10
 decorator==4.3.0
