@@ -107,7 +107,7 @@ more-itertools==7.2.0
 munch==2.3.2
 murmurhash==1.0.2
 mxnet-cu90==1.5.1.post0
-nbconvert==5.4.0
+nbconvert==6.5.1
 nbformat==4.4.0
 netifaces==0.10.4
 networkx==2.2
